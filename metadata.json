@@ -1,0 +1,6 @@
+{
+  "name": "嶼光咖啡焙煎所 Lumi Roastery",
+  "description": "精品單品咖啡豆與職人手沖專門店，提供產區風味簡介、客製化線上訂購系統與門市地理位置導覽。",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
